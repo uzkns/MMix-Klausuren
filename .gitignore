@@ -1,0 +1,9 @@
+# git-ignore everything made by LaTeX
+*.aux
+*.out
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+*.toc
